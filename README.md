@@ -1,1 +1,0 @@
-# Analisis-Konsumsi-Listrik-Real-Time-Berbasis-Sensor-Menggunakan-PySpark-
